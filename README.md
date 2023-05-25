@@ -11,6 +11,7 @@
   <h1 class= "Main Header(Title)">Dieu-aime's Portfolio </h1>
   <d1 class= "Brief Biography">A passionate indvidual with ambitions to improve oneself, which develops adaptability to whatever enviroment and situation that may be presented.</d1>
   <!-- photo -->
+     <img src="Dieu-aime.jpg" alt="Dieu-aime">
   <!-- contact information -->
   <d2> My clicking the word <link rel="linkin" href="https://www.linkedin.com/in/dieu-aime-omambo-83044b265/"> will give you access to my information. Clicking <link rel="GitHub" href="https://github.com/Supersymbol"> or <link rel="GitHub" href="https://public.tableau.com/app/profile/dieu.aime.omambo"> should bring you to a site with my personal works.</d2>
   <u1>
