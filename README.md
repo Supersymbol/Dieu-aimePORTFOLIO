@@ -48,12 +48,13 @@
                </u1>
           </section>
      </main>
-     <nav>
+     <section <nav>
           <a href="#AboutMe">About Me</a>
           <a href="#ContactInfo">Contact Info</a>
           <a href="#References">References</a>
           <a href="#Skills">Skills</a>
-     </nav>
+          </nav>
+     </section>
      <footer>
           &copy; 2023 Code Business
      </footer>
