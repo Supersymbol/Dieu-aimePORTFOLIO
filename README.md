@@ -14,9 +14,8 @@
           <h1 class="Main Header(Title)">Dieu-aime's Portfolio </h1>
           <section id="AboutMe">
                <h2>About Me</h2>
-               <d1 class="Brief Biography">A passionate indvidual with ambitions to improve oneself, which develops
-                    adaptability to whatever enviroment and situation that may be presented.</d1>
-               <!-- photo -->
+               <d1 class="Brief Biography">A passionate individual with ambitions to improve oneself, which develops
+                    adaptability to whatever environment and situation that may be presented.</d1>
                <img src="images/Dieu-aime02.jpg" alt="Dieu-aime02">
           </section>
           <section id="ContactInfo">
@@ -26,10 +25,12 @@
                     <li>Phone: (704) 123-1234</li>
                </u1>
           </section>
-          <section id="Referrences">
-               <h4>Referrences</h4>
-               <d2> My clicking the word <a href="https://www.linkedin.com/in/dieu-aime-omambo-83044b265/">linkin</a> will give you
-                    access to my information. Clicking <a href="https://github.com/Supersymbol">GitHub</a> or <a href="https://public.tableau.com/app/profile/dieu.aime.omambo">Tableau</a> should bring you
+          <section id="References">
+               <h4>References</h4>
+               <d2> My clicking the word <a href="https://www.linkedin.com/in/dieu-aime-omambo-83044b265/">Linkin</a>
+                    will give you
+                    access to my information. Clicking <a href="https://github.com/Supersymbol">GitHub</a> or <a
+                         href="https://public.tableau.com/app/profile/dieu.aime.omambo">Tableau</a> should bring you
                     to a site with my personal works.
                </d2>
           </section>
@@ -39,23 +40,23 @@
                     <li>Planning & Organizing</li>
                     <li>Listening & Learning</li>
                     <li>Communication</li>
-                    <li>Tableau Devoloper</li>
+                    <li>Tableau Developer</li>
                     <li>Novice Coder</li>
                     <li>Problem Solving</li>
                     <li>Hardworking & Dedication</li>
                     <li>Self-Management</li>
                </u1>
           </section>
-          <!-- -->
-          <!-- -->
      </main>
      <nav>
           <a href="#AboutMe">About Me</a>
           <a href="#ContactInfo">Contact Info</a>
-          <a href="#Referrences">Referrences</a>
+          <a href="#References">References</a>
           <a href="#Skills">Skills</a>
      </nav>
      <footer>
           &copy; 2023 Code Business
      </footer>
 </body>
+
+</html>
